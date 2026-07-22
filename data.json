@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": "db158acf-21b0-4696-a00d-528e50ce29e4",
+      "user_id": "arrdg1",
+      "username": "لوفي ملك القراصنة",
+      "user_avatar": "https://cement-barn-statute-candles.trycloudflare.com/uploads/images/24c83614-cda1-489d-a6ea-ca8b5e6eb418.png",
+      "content": "خخخ",
+      "images": [],
+      "video_url": null,
+      "youtube_url": null,
+      "poll": null,
+      "is_spoiler": false,
+      "comments_locked": false,
+      "comments": [
+        {
+          "id": "c1784760347237",
+          "user_id": "arrdg1",
+          "username": "لوفي ملك القراصنة",
+          "user_avatar": "https://cement-barn-statute-candles.trycloudflare.com/uploads/images/a521dc5e-659d-449d-9b8e-42ea9a5af279.png",
+          "content": "https://post/لوفي ملك القراصنة/db158acf-21b0-4696-a00d-528e50ce29e4",
+          "created_at": "2026-07-22T22:45:47.237Z"
+        },
+        {
+          "id": "c1784760384785",
+          "user_id": "ايتاشي اوتشيها",
+          "username": "اوتشيها",
+          "user_avatar": "https://cement-barn-statute-candles.trycloudflare.com/uploads/images/6f9ba6c6-eaef-4686-a2e1-065475aa2c2d.jpeg",
+          "content": "هاااااااااااااااااااااااا",
+          "created_at": "2026-07-22T22:46:24.785Z"
+        },
+        {
+          "id": "c1784760402640",
+          "user_id": "arrdg1",
+          "username": "لوفي ملك القراصنة",
+          "user_avatar": "https://cement-barn-statute-candles.trycloudflare.com/uploads/images/cbed410d-96a0-4648-b20a-24165c93c802.png",
+          "content": "↩️ رد إلى اوتشيها: يييييييييييي",
+          "created_at": "2026-07-22T22:46:42.640Z"
+        }
+      ],
+      "comments_count": 3,
+      "roses_count": 0,
+      "post_notifications": [],
+      "created_at": "2026-07-22T22:45:33.252Z"
+    }
+  ],
+  "users": []
+}
