@@ -29,7 +29,7 @@ app.use(express.static('public'));
 // ============================================
 // 🌐 رابط السيرفر العام (ثابت)
 // ============================================
-const BASE_URL = "https://cement-barn-statute-candles.trycloudflare.com";
+const BASE_URL = "https://anime-server-74de.onrender.com";
 
 // ============================================
 // 📁 مجلدات الرفع
